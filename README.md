@@ -1,7 +1,13 @@
 capstone-2
 ==============================
 
-A short description of the project.
+The castone 2 project on the Riiid data set.
+
+requirements.txt lists all modules needed to replicate the work.
+
+HTML reports on the datasets are located in the reports folder.
+
+The primary notebook is located in the notebooks folder.
 
 Project Organization
 ------------
